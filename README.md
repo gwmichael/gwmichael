@@ -1,13 +1,18 @@
 # Welcome to my profile!
-My name is Michael and I am from the UK. I am soon starting my third year (out of five!) of my Integrated Master's Degree in Computer Science at Royal Holloway, University of London. I also have worked for several years in the IT Support sector and I am [certified as an Infrastructure Technician](https://www.credly.com/badges/ee3efb18-8d7f-4e5a-a1df-95d8fcf33f64/public_url).
+My name is Michael and I am from the UK. I am currently completing my third year (out of five!) of my Integrated Master's Degree in Computer Science at Royal Holloway, University of London. I also have worked for several years in the IT Support sector and I am [certified as an Infrastructure Technician](https://www.credly.com/badges/ee3efb18-8d7f-4e5a-a1df-95d8fcf33f64/public_url).
 
 My primary interests are in operating systems, TCP/IP networking and all things security (cryptography, cybersecurity, etc!). I have only recently started using GitHub, but I have been programming since 2016.
 
-As of September 2024, I am currently focused on:
-- 📚 Learning x86 Assembly
-- 💻 Working full time as an IT engineer
-- 📊 My [AlgorithmSuiteX project](https://github.com/NetMasterMichael/AlgorithmSuiteX) about comparing algorithms
-- 💡 Getting ahead on my third year modules!
+As of December 2024, I am currently focused on:
+- 📚 Completing my third-year term 1 modules, including
+  - Quantum Computation
+  - Applications of Cryptography
+  - Machine Learning
+  - IT Project Management
+- 🏫 Working part-time as a Teaching Assistant at RHUL
+- 👾 Running exciting events for Royal Holloway's Cyber Security Society
+
+While I'm not very active on GitHub right now, I still have plenty of ideas I'm looking forward to putting into code in the future!
 
 Connect with me or get in touch below:
 <div id="links">
