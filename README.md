@@ -3,12 +3,12 @@ My name is Michael and I am from the UK. I am currently completing my third year
 
 My primary interests are in operating systems, TCP/IP networking and all things security (cryptography, cybersecurity, etc!). I have only recently started using GitHub, but I have been programming since 2016.
 
-As of December 2024, I am currently focused on:
-- 📚 Completing my third-year term 1 modules, including
-  - Quantum Computation
-  - Applications of Cryptography
-  - Machine Learning
-  - IT Project Management
+As of March 2025, I am currently focused on:
+- 📚 Completing my third-year term 2 modules, including
+  - Critical Infrastructure Security
+  - Digital Forensics
+  - Malicious Software
+  - Functional Programming and Applications
 - 🏫 Working part-time as a Teaching Assistant at RHUL
 - 👾 Running exciting events for Royal Holloway's Cyber Security Society
 
