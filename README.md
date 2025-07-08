@@ -1,18 +1,15 @@
 # Welcome to my profile!
-My name is Michael and I am from the UK. I am currently completing my third year (out of five!) of my Integrated Master's Degree in Computer Science at Royal Holloway, University of London. I also have worked for several years in the IT Support sector and I am [certified as an Infrastructure Technician](https://www.credly.com/badges/ee3efb18-8d7f-4e5a-a1df-95d8fcf33f64/public_url).
+My name is Michael! I'm from the UK and I'm currently completing my Year in Industry in cyber security at National Highways, helping to protect the nation's critical infrastructure and strategic road network. 
 
-My primary interests are in operating systems, TCP/IP networking and all things security (cryptography, cybersecurity, etc!). I have only recently started using GitHub, but I have been programming since 2016.
+After my Year in Industry, I will be returning to full-time education at Royal Holloway, University of London, to finish my last year of my Integrated Master's Degree in Computer Science. I also have worked for several years in the IT Support sector and I am [certified as an Infrastructure Technician](https://www.credly.com/badges/ee3efb18-8d7f-4e5a-a1df-95d8fcf33f64/public_url).
 
-As of March 2025, I am currently focused on:
-- 📚 Completing my third-year term 2 modules, including
-  - Critical Infrastructure Security
-  - Digital Forensics
-  - Malicious Software
-  - Functional Programming and Applications
-- 🏫 Working part-time as a Teaching Assistant at RHUL
-- 👾 Running exciting events for Royal Holloway's Cyber Security Society
+My primary interests are in operating systems, TCP/IP networking, all things information security (cryptography, cyber security, etc) and more recently, quantum computing! I only joined GitHub in 2024, but I have been programming since 2016.
 
-While I'm not very active on GitHub right now, I still have plenty of ideas I'm looking forward to putting into code in the future!
+As of July 2025, I am currently focused on:
+- 📚 Completing my Cyber Security Year in Industry at National Highways
+- 🏫 Development of my Quantum Software Simulation Project
+
+While I'm less active on GitHub right now, I still have plenty of ideas I'm looking forward to putting into code in the future!
 
 Connect with me or get in touch below:
 <div id="links">
