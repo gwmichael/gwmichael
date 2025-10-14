@@ -5,9 +5,9 @@ After my Year in Industry, I will be returning to full-time education at Royal H
 
 My primary interests are in operating systems, TCP/IP networking, all things information security (cryptography, cyber security, etc) and more recently, quantum computing! I only joined GitHub in 2024, but I have been programming since 2016.
 
-As of July 2025, I am currently focused on:
+As of October 2025, I am currently focused on:
 - 🛣️ Completing my Cyber Security Year in Industry at National Highways
-- ⚛️ Development of my Quantum Software Simulation Project
+- ⚛️ Developing Volq, a programming language for simulating quantum computing algorithms
 
 While I'm less active on GitHub right now, I still have plenty of ideas I'm looking forward to putting into code in the future!
 
