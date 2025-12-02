@@ -9,7 +9,7 @@ As of December 2025, I am currently focused on:
 - 🛣️ Completing my Cyber Security Year in Industry at National Highways
 - 📚 Obtaining Microsoft AZ-900 Azure Fundamentals & SC-900 Security, Compliance, and Identity Fundamentals
 
-I also spend a lot of time developing my interpreted programming language called Volq, which is easy to use to simulate quantum computing algorithms. Although I've put that on pause for the moment to focus on studying for certificates!
+I also spend a lot of time developing my interpreted programming language called [Volq](https://github.com/gwmichael/volq-quantum), which is easy to use to simulate quantum computing algorithms. Although I've put that on pause for the moment to focus on studying for certificates!
 
 While I'm less active on GitHub right now, I still have plenty of ideas I'm looking forward to putting into code in the future!
 
