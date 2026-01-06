@@ -5,13 +5,10 @@ After my Year in Industry, I will be returning to full-time education at Royal H
 
 My primary interests are in operating systems, TCP/IP networking, all things information security (cryptography, cyber security, etc) and more recently, quantum computing! I only joined GitHub in 2024, but I have been programming since 2016.
 
-As of December 2025, I am currently focused on:
+As of January 2026, I am currently focused on:
 - 🛣️ Completing my Cyber Security Year in Industry at National Highways
-- 📚 Obtaining Microsoft AZ-900 Azure Fundamentals & SC-900 Security, Compliance, and Identity Fundamentals
-
-I also spend a lot of time developing my interpreted programming language called [Volq](https://github.com/gwmichael/volq-quantum), which is easy to use to simulate quantum computing algorithms. Although I've put that on pause for the moment to focus on studying for certificates!
-
-While I'm less active on GitHub right now, I still have plenty of ideas I'm looking forward to putting into code in the future!
+- 📚 Obtaining Microsoft SC-900 Security, Compliance, and Identity Fundamentals
+- ⚛️ Developing [Volq](https://github.com/gwmichael/volq-quantum), a programming language for simulating quantum computing algorithms
 
 Connect with me or get in touch below:
 <div id="links">
